@@ -19,3 +19,28 @@
 .material-icons {
   cursor: pointer;
 }
+
+.navbar-brand {
+  font-family: "Roboto", cursive;
+  font-size: 2.25rem;
+}
+
+.bg-info {
+  background-color: #456b9d !important;
+}
+
+.navbar-light .navbar-brand {
+  color: #a8dadc;
+}
+
+.btn-primary {
+  color: #a8dadc;
+  font-size: 150%;
+  background-color: #456b9d;
+  border-color: #1d3557;
+  border-width: thick;
+}
+
+body {
+  background-color: #a8dadc;
+}
